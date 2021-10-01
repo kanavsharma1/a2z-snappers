@@ -1,5 +1,9 @@
+import { Navbar } from "../components/common/navbar";
+
 const home =()=>{
-return (<h1>Home Page !!</h1>)
+return (
+    <Navbar/>
+)
 }
 
 
